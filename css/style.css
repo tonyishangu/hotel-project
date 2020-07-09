@@ -13,3 +13,15 @@ h2{
     text-align: center;
     color: slateblue;
 }
+.para1{
+    color: palevioletred;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.para2{
+    color: red;
+    font-family: serif;
+}
+.para3{
+    color: saddlebrown;
+    font-family: 'Times New Roman', Times, serif;
+}
